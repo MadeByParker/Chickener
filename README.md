@@ -24,4 +24,11 @@
 * Timers
 * Visual Studio 2019
 
+### How to run the game? 🎮
+
+1. Go to the bin folder.
+2. Open the release folder.
+3. Run the .exe file
+4. Enjoy
+
 Have fun, message me if you want more updates
