@@ -1,5 +1,7 @@
 ### This was for my Computer Science Foundation Year Project.
 
+Results: 74/100
+
 # Chickener
 
 ## Why did the chicken cross the road? 
